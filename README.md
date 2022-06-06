@@ -1,7 +1,7 @@
-# Almacenamiento en caché con Node.js y Redis
+# Almacenamiento en Caché con Node.js y Redis
 ## ¿Qué es el caché y cómo puede ayudarnos?
 
-La caché es el proceso con el que los datos se almacenan temporalmente en un área de componentes de almacenamiento para poder ser utilizados en el futuro con mayor rapidez. Por ej.. Si tenemos algunos datos que provienen de una API de terceros
+La Caché es el proceso con el que los datos se almacenan temporalmente en un área de componentes de almacenamiento para poder ser utilizados en el futuro con mayor rapidez. Por ej.. Si tenemos algunos datos que provienen de una API de terceros.
 
 ## ¿Qué es Redis?
 
