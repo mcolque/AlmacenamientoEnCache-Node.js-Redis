@@ -1,0 +1,5 @@
+### Obtener todos los personajes
+GET http://localhost:3000/character
+
+###
+GET http://localhost:3000/character/1
